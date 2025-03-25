@@ -98,13 +98,13 @@ From raw data ➡️ to predictions ➡️ to leaderboard success! 🏆
 ### 📸 Visual Proof  
 
 <p>
-  <strong>Leaderboard Screenshot:</strong><br>
-  ![Leaderboard Screenshot](https://github.com/user-attachments/assets/d50f06f0-2a3c-4f8a-bd44-277efe820385)
+  <strong>📄 My Score Screenshot:</strong><br>
+  <img src="https://github.com/user-attachments/assets/d50f06f0-2a3c-4f8a-bd44-277efe820385" alt="Score Screenshot" width="600"/>
 </p>
 
 <p>
-  <strong>My Score Screenshot:</strong><br>
-  <img src="images/score.png" alt="Score Screenshot" width="600"/>
+  <strong>📊 Leaderboard Position Screenshot:</strong><br>
+  <img src="https://github.com/user-attachments/assets/ae003fe6-454c-4c69-8bb9-d99eb434a280" alt="Leaderboard Screenshot" width="600"/>
 </p>
 
 </div>
