@@ -99,7 +99,7 @@ From raw data ➡️ to predictions ➡️ to leaderboard success! 🏆
 
 <p>
   <strong>Leaderboard Screenshot:</strong><br>
-  <img src="images/leaderboard.png" alt="Leaderboard Screenshot" width="600"/>
+  <img src="![Image](https://github.com/user-attachments/assets/d50f06f0-2a3c-4f8a-bd44-277efe820385)" alt="Leaderboard Screenshot" width="600"/>
 </p>
 
 <p>
